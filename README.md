@@ -6,13 +6,13 @@ Este é um sistema para gerenciamento de funcionários e departamentos.
 ## A) Features
 
 - Na página inicial, mostra uma lista de todos os funcionários e seus departamentos.
-Acessada em 'http://localhost:8080/'
+Acessada em 'http://127.0.0.1:8000/'
 
 - Django Admin para gerenciamento do CRUD de funcionários e departamentos.
-Acessado em 'http://localhost:8080/admin/'
+Acessado em 'http://127.0.0.1:8000/admin/'
 
 - API REST com os métodos.
-Documentação disponível em 'http://localhost:8080/api/'
+Documentação disponível em 'http://127.0.0.1:8000/api/'
 
 
 ## B) Tecnologias utilizadas
@@ -30,7 +30,7 @@ Documentação disponível em 'http://localhost:8080/api/'
 
 ## C) Instruções de instalação
 
-1) Crie um virtualenv (usei o pyenv/pyenv-virtualenv)
+1) Crie e ative uma virtualenv (usei o pyenv/pyenv-virtualenv)
 
 2) Clone esse projeto:
 `git clone https://github.com/ThiAABrown/igs-software.git`
