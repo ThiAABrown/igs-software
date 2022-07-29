@@ -54,3 +54,12 @@ Documentação disponível em 'http://localhost:8080/api/'
 `python manage.py runserver`
 
 8) Acesse as features descritas na seção "A) Features" acima. Para acessar o Django Admin, use as credenciais que você criou no passo 6 (createsuperuser).
+
+## D) Processo de desenvolvimento
+
+A branch principal desse projeto é a master. A branch está protegida de pushs diretos.
+
+Para cada feature que implementei criei uma nova branch derivada da master, e ao terminar a feature, realizei um push, criei um pull request no github e mergeei o pull request na master.
+
+Trabalhei com issues no repositório do github, para ter um controle das tarefas. O link para as issues é este: https://github.com/ThiAABrown/igs-software/issues?q=is%3Aissue+is%3Aclosed .
+
